@@ -1,2 +1,2 @@
 # oxyeli
-tgk-oxyeli
+oxyeli
