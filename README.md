@@ -1,2 +1,2 @@
-# tgk-oxyeli
+# oxyeli
 tgk-oxyeli
